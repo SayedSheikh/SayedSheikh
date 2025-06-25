@@ -8,6 +8,20 @@ A passionate Full Stack Developer and CSE student from Bangladesh. I love buildi
 # 💫 About Me:
 A passionate Full Stack Developer and CSE student from Bangladesh. I love building clean, functional web applications with modern technologies like JavaScript, React, Node.js, and MongoDB. I'm always exploring new tools, contributing to open-source, and solving real-world problems through code.
 
+```dart
+// tools_I_use organized
+
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : { "C", "C++", "Javascript", "Java" },
+    "OtherLanguages" : { "HTML", "CSS", "Json", "Markdown" },
+    "Database" : { "Firebase", "SQL","Mongodb" },
+    "Editors" : { "Vscode", "Sublime" },
+    "Platforms" : {  "GNU/Linux", "Windows" },
+    "OtherTools" : { "Git", "Figma", "Photoshop", "Lightroom" }
+  };
+}
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sayed.sheikh.413765) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sayed-sheikh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sayedsheikh9@gmail.com) 
