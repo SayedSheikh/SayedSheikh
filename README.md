@@ -1,4 +1,4 @@
-### Hi there 👋, Hi There 👋
+### Hi There 👋
 #### I'm Sayed Sheikh 
 ![I'm Sayed Sheikh ](https://raw.githubusercontent.com/SayedSheikh/SayedSheikh/refs/heads/main/artwork.png)
 
