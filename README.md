@@ -45,36 +45,7 @@ class About extends Me {
 
 ---
 
--  <img alt="GIF" src="https://github.com/SayedSheikh/SayedSheikh/blob/main/photos/Developer.gif" width="25" /> &nbsp; I’m currently learning **React**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/SayedSheikh/SayedSheikh/blob/main/photos/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **Next.js**. <br>
-- <img src="https://github.com/SayedSheikh/SayedSheikh/blob/main/photos/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
-- <img src="https://github.com/SayedSheikh/SayedSheikh/blob/main/photos/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[Sayed](https://t.me/SayedSheikh9)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SayedSheikh/SayedSheikh/blob/main/photos/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Typing at an average speed for one hour can burn **100–150** calories — so yes, debugging is technically cardio. 🧠💪<br>
 
-<div align="center" >
-<a  href="https://github.com/SayedSheikh">
-
-### 📊 GitHub Stats
-
-<img src="https://raw.githubusercontent.com/SayedSheikh/github-profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SayedSheikh/github-profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SayedSheikh/github-profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
-
-</a>
-
-<details>
-  <summary>More stats</summary>
-  
-<img src="https://raw.githubusercontent.com/SayedSheikh/github-profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" />
-
-</details>
-  
-
-
-<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
-
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
