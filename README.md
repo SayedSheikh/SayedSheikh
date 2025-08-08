@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/SayedSheikh/SayedSheikh/main/artwork.png)
 
-# 👨‍💻 Md Sayed Sheikh — Full Stack Developer
+# Sayed Sheikh — Full Stack Developer
 
 🚀 Passionate Full Stack Developer | CSE Undergrad at DIU | Open-source Contributor | JavaScript Enthusiast
 
@@ -64,7 +64,7 @@ I'm Sayed Sheikh, a self-driven Full Stack Developer from Bangladesh with a pass
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SayedSheikh&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=SayedSheikh&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=SayedSheikh&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SayedSheikh&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -78,8 +78,5 @@ I'm Sayed Sheikh, a self-driven Full Stack Developer from Bangladesh with a pass
 ## ✍️ Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=SayedSheikh&icon=0&color=0)
 
 <!-- Proudly created with ❤️ using GPRM ( https://gprm.itsvg.in ) -->
