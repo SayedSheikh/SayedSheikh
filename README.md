@@ -63,11 +63,10 @@ I'm Sayed Sheikh, a self-driven Full Stack Developer from Bangladesh with a pass
 
 ---
 
-## 📊 GitHub Stats
-
-![Sayed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SayedSheikh&theme=radical&hide_border=false&count_private=true)
-![Sayed's GitHub Streak](https://streak-stats.demolab.com/?user=SayedSheikh&theme=radical&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SayedSheikh&layout=compact&theme=radical&hide_border=false)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SayedSheikh&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SayedSheikh&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SayedSheikh&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
