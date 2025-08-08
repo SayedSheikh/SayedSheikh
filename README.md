@@ -13,7 +13,7 @@ I'm Sayed Sheikh, a self-driven Full Stack Developer from Bangladesh with a pass
 
 ## 🚀 Current Activities
 - 🌐 Exploring **Next.js** and **server-side rendering**
-- 🧭 Building a **Tourism Website** with dynamic content
+- 🧭 Building a **E-commerce Website** with dynamic content
 - 🔄 Learning about **Authentication & Role-Based Routing**
 - 💼 Contributing to **Arclane** - a building management platform
 - 🧪 Learning **Unit Testing** with Jest and React Testing Library
@@ -34,10 +34,23 @@ I'm Sayed Sheikh, a self-driven Full Stack Developer from Bangladesh with a pass
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SayedSheikh&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=SayedSheikh&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SayedSheikh&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=SayedSheikh&theme=radical&hide_border=false&count_private=true" alt="Sayed's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayedSheikh&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SayedSheikh&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
+</div>
+
 
 ---
 
