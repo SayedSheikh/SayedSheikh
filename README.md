@@ -1,6 +1,5 @@
 ### Hi There 👋
-# I'm **Sayed Sheikh** 
-<p>A Web Developer </p>
+# I'm **Sayed Sheikh \n a Web Developer** 
 ![I'm Sayed Sheikh ](https://raw.githubusercontent.com/SayedSheikh/SayedSheikh/refs/heads/main/artwork.png)
 
 # 💫 About Me:
