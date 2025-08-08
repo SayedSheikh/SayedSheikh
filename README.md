@@ -2,7 +2,7 @@
 
 # Sayed Sheikh — Full Stack Developer
 
-🚀 Passionate Full Stack Developer | CSE Undergrad at DIU | Open-source Contributor | JavaScript Enthusiast
+🚀 Passionate Full Stack Developer | CSE Undergrad | Open-source Contributor | JavaScript Enthusiast
 
 ---
 
