@@ -36,14 +36,10 @@ I'm Sayed Sheikh, a self-driven Full Stack Developer from Bangladesh with a pass
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SayedSheikh&theme=radical&hide_border=false&count_private=true" alt="Sayed's GitHub Stats" />
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=SayedSheikh&theme=radical&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=SayedSheikh&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repositories Contribution Stats" />
 </p>
 
 
