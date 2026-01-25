@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/SayedSheikh/SayedSheikh/main/artwork.png)
 
-# Sayed Sheikh — Full Stack Developer
+# Sayed Sheikh — Full Stack Developer.
 
 🚀 Passionate Full Stack Developer | CSE Undergrad | Open-source Contributor | JavaScript Enthusiast.
 
@@ -25,7 +25,7 @@ I'm Sayed Sheikh, a self-driven Full Stack Developer from Bangladesh with a pass
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me.
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/SayedSheikh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayed-sheikh)
