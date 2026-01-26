@@ -14,9 +14,10 @@ I'm Sayed Sheikh, a self-driven Full Stack Developer from Bangladesh with a pass
 ## 🚀 Current Activities
 - 🌐 Exploring **Next.js** and **server-side rendering**
 - 🧭 Building a **E-commerce Website** with dynamic content
-- 🔄 Learning about **Authentication & Role-Based Routing**
-- 💼 Contributing to **Arclane** - a building management platform
-- 🧪 Learning **Unit Testing** with Jest and React Testing Library
+- 🔄 Learning about.
+**Authentication & Role-Based Routing**
+- 💼 Contributing to **Arclane** - a building management platform.
+- 🧪 Learning **Unit Testing** with Jest and React Testing Library.
 
 ---
 
