@@ -17,7 +17,7 @@ I'm Sayed Sheikh, a self-driven Full Stack Developer from Bangladesh with a pass
 - 🔄 Learning about.
 **Authentication & Role-Based Routing**
 - 💼 Contributing to **Arclane** - a building management platform.
-- 🧪 Learning **Unit Testing** with Jest and React Testing Library.
+- 🧪 Learning **Unit Testing** with Jest and React Testing Library..
 
 ---
 
